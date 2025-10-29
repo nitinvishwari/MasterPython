@@ -1,1 +1,3 @@
-print("Nitin Vishwari is a good boy and he is a good developer")
+# Taking input from user
+name = input("Enter your name: ")
+print("Hello", name)
